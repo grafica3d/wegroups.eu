@@ -7,6 +7,8 @@
 <a href="https://www.wegroups.eu/esperienze-immersive">esperienza immersiva</a><br>
 <a href="https://www.wegroups.eu/showroom-virtuale">showroom virtuale</a><br>
 <a href="https://www.wegroups.eu/animazioni-3d" title="video 3d" >animazione 3d</a><br>
+<a href="https://www.wegroups.eu/cose-la-cgi" title="cgi" >CGI</a><br>
+
 
 
 
